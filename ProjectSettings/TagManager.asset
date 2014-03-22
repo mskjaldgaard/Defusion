@@ -41,3 +41,31 @@ TagManager:
     userID: 0
     uniqueID: 0
     locked: 0
+  - name: Background
+    userID: 1
+    uniqueID: 2010472799
+    locked: 0
+  - name: Briefcase Bottom
+    userID: 2
+    uniqueID: 2931493325
+    locked: 0
+  - name: Briefcase Top
+    userID: 3
+    uniqueID: 312179149
+    locked: 0
+  - name: BriefcaseLid Bottom
+    userID: 4
+    uniqueID: 2929068963
+    locked: 0
+  - name: BriefcaseLid Top
+    userID: 5
+    uniqueID: 1889799911
+    locked: 0
+  - name: MetalBoxBottom
+    userID: 7
+    uniqueID: 1141559005
+    locked: 0
+  - name: InsideMetalBox
+    userID: 6
+    uniqueID: 2581614731
+    locked: 0
