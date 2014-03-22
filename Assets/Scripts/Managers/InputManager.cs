@@ -10,13 +10,12 @@ public class InputManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.touchCount > 0 && 
-			forEach(){
+		int amountOfTouches = Input.touchCount;
+
+		for(int i = 0; i < amountOfTouches; i++){
+			if(Input.GetTouch(i).phase == TouchPhase.Moved) {
 				
 			}
-		  Input.GetTouch(0).phase == TouchPhase.Moved) {
-					
-			// Move object across XY plane
 		}
 	}
 }
